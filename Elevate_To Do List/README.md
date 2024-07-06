@@ -1,4 +1,4 @@
-## Simple Todo List App Docs
+## To Do List
 
 ## Table of Contents
 
