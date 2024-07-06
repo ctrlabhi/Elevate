@@ -36,13 +36,13 @@ Make sure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone git@github.com:abdellatif-laghjaj/todo-list.git
+   git clone https://github.com/ctrlabhi/Elevate.git
    ```
 
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd todo-list
+   cd Elevate_To Do List
    ```
 
 3. **Open `index.html` in a Browser:**
